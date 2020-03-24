@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Notre-Dame de Paris</title>
+    <link>/hugo-website/tags/</link>
+    <description>Recent content in Tags on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>scene</title>
+      <link>/hugo-website/tags/scene/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>/hugo-website/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
