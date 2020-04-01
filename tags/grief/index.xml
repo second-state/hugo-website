@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grief on Ghostdogs</title>
+    <link>/hugo-website/tags/grief/</link>
+    <description>Recent content in grief on Ghostdogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="/hugo-website/tags/grief/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>/hugo-website/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>/hugo-website/post/chapter-1/</guid>
+      <description>I am not totally sure of my reasons for writing a blog or a book at the moment. All I know is that the main subject that I have been writing about, my son, his autism and grief are important to me. I have looked for research and guidance on the web and elsewhere and have found little of substance. There might be on Facebook and maybe stuff is hidden on there, but I am not on Facebook.</description>
+    </item>
+    
+  </channel>
+</rss>
