@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "/hugo-website"
+title = "Financial Modeller"
+baseURL = "/njogonomics.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
